@@ -19,6 +19,6 @@ This is a simple Shopping Cart Management System implemented in C, allowing user
 6️⃣ Proceed to checkout to finalize your order.
 
 # Technologies Used
-C Programming Language
-Standard I/O and String Manipulation
+C Programming Language,
+Standard I/O and String Manipulation,
 Basic Data Structures (Arrays & Structs)
