@@ -1,4 +1,5 @@
 # Shopping Cart Management System by C 
+
 This is a simple Shopping Cart Management System implemented in C, allowing users to add items, view their cart, calculate the total price, apply discounts, and checkout. The program is designed to be interactive and easy to use.
 
 # Features
